@@ -1,4 +1,4 @@
-package org.nextome.db.beans;
+package org.schema.beans;
 
 public interface DBBeanWithId extends DBBean {
 

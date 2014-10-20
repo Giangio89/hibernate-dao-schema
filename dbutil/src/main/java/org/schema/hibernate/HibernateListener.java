@@ -1,4 +1,4 @@
-package org.nextome.hibernate;
+package org.schema.hibernate;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

@@ -1,4 +1,4 @@
-package org.nextome.db.dao;
+package org.schema.dao;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.nextome.hibernate;
+package org.schema.hibernate;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

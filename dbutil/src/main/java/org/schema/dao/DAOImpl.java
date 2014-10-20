@@ -1,5 +1,5 @@
 
-package org.nextome.db.dao;
+package org.schema.dao;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.hibernate.HibernateException;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.jboss.logging.Logger;
-import org.nextome.hibernate.HibernateUtil;
+import org.schema.hibernate.HibernateUtil;
 
 public abstract class DAOImpl<T> implements DAO<T> {
 

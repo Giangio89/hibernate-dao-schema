@@ -1,4 +1,4 @@
-package org.nextome.db.dao;
+package org.schema.dao;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Query;

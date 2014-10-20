@@ -1,11 +1,11 @@
-package org.nextome.db;
+package org.schema;
 
 import java.io.Serializable;
 
 import org.hibernate.HibernateException;
 import org.hibernate.engine.spi.SessionImplementor;
 import org.hibernate.id.IdentityGenerator;
-import org.nextome.db.beans.DBBeanWithId;
+import org.schema.beans.DBBeanWithId;
 
 public class SerialGenerator extends IdentityGenerator {
 	
